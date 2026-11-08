@@ -50,22 +50,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Disha0906&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha0906&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Disha0906&theme=tokyonight" width="100%"/>
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🥉 Secured 3rd Prize at a College Mini Hackathon.
