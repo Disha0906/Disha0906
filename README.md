@@ -55,7 +55,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Disha0906
 &show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Disha0906
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Disha0906
 &theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
@@ -77,7 +77,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/dishayh9906" target="_blank">
+<a href="https://www.linkedin.com/in/dishayh9906/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 <a href="https://github.com/Disha0906
