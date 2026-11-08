@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Aspiring Cloud Engineer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Exploring+Cloud+Computing+%E2%98%81%EF%B8%8F;Learning+DSA+one+problem+at+a+time;Building+projects+and+learning+daily;Turning+curiosity+into+code+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Exploring+Cloud+Computing+%E2%98%81%EF%B8%8F;Building+projects+and+learning+daily;Turning+curiosity+into+code+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 - 🎓 Computer Science Engineering Student.
 - ☁️ Interested in Cloud Computing and AWS.
 - 💻 Currently strengthening my Data Structures & Algorithms.
-- 🤖 Exploring Artificial Intelligence and Software Development.
 - 🚀 Love participating in hackathons and building projects.
 - 🌱 Always curious to learn something new.
 
@@ -36,7 +35,7 @@
 **Cloud, Database & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,mysql,firebase,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=azure,mysql,git,github,vscode,linux" />
 </p>
 
 ---
@@ -54,12 +53,15 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Disha0906
+&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Disha0906
+&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha0906
+&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,7 +77,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/dishayh9906" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 <a href="https://github.com/Disha0906
